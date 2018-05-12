@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/818
     wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30191#A-Critic-in-Pall-Mall--Being-Extracts-from-Reviews-and-Miscellanies
 gutenberg_issued: '2009-10-06'
 gutenberg_type: Text
 identifiers:
