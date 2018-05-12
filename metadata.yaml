@@ -1,0 +1,54 @@
+_repo: A-Critic-in-Pall-Mall--Being-Extracts-from-Reviews-and-Miscellanies_30191
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+  editor:
+    agent_name: Lucas, E. V. (Edward Verrall)
+    aliases:
+    - Lucas, E.V.
+    - Lucas, Edward Verrall
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '818'
+    url: http://www.gutenberg.org/2009/agents/818
+    wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
+description: ''
+gutenberg_issued: '2009-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books -- Reviews'
+- !lcc 'PR'
+- !lcsh 'Literature -- History and criticism'
+tableOfContents: The tomb of Keats -- Keats's Sonnet on blue -- Dinners and dishes
+  -- Shakespeare on scenery -- 'Henry the Fourth' at Oxford -- A handbook to marriage
+  -- To read or not to read -- The letters of a great woman -- Béranger in England
+  -- The poetry of the people -- 'The Cenci' -- Balzac in English -- Ben Jonson --
+  Mr. Symonds' history of the Renaissance -- Mr. Morris's 'Odyssey' -- Russian novelists
+  -- Mr. Pater's 'Imaginary portraits' -- A German princess -- 'A village tragedy'
+  -- Mr. Morris's completion of the 'Odyssey' -- Mrs. Somerville -- Aristotle at afternoon
+  tea -- Early Christian art in Ireland -- Madame Ristori -- English poetesses --
+  Venus or Victory -- M. Caro on George Sand -- A fascinating book -- Henley's poems
+  -- Some literary ladies -- Poetry and prison -- The gospel according to Walt Whitman
+  -- Irish fairy tales -- Mr. W.B. Yeats -- Mr. Yeats's 'Wanderings of Oisin' -- Mr.
+  William Morris's last book -- Some literary notes -- Mr. Swinburne's 'Poems and
+  ballads' (third series) -- A Chinese sage -- Mr. Pater's 'Appreciations' -- Sententiae.
+title: 'A Critic in Pall Mall: Being Extracts from Reviews and Miscellanies'
+url: http://www.gutenberg.org/ebooks/30191
